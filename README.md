@@ -1,8 +1,5 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-808<h1 align="center">Hi 👋, I'm Laiana</h1>
-<h3 align="center">A passionate data scientist from Brasília, Deep Learning student, Problem solver and coffee lover.</h3>
+<h1 align="center">Hi 👋, I'm Laiana</h1>
+<h3 align="center">A passionate data scientist from Brasília, Deep Learning student :robot: :brain:, Problem solver and coffee lover :hearts: :coffee:.</h3>
 
 - 🌱 I’m currently learning **PySpark, Tensorflow, Keras, Apache Airflow...**
 
