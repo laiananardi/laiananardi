@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laiana</h1>
 <h3 align="center">A passionate data scientist from Brasília, Deep Learning student :robot::brain:, Problem solver :dart::star2: and coffee lover :hearts::coffee:.</h3>
 
-- 🌱 I’m currently learning **PySpark, Tensorflow, Keras, Apache Airflow...**
+- 🌱 I’m currently learning **Tensorflow, Keras, Pytorch...**
 
 - 💬 Ask me about **Data Analysis with python**
 
